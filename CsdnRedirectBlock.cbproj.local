@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2023/08/20 21:13:32.685,=d:\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/08/20 21:13:32.700,=d:\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/08/20 21:13:57.274,d:\Documents\Embarcadero\Studio\Projects\main_form.dfm=d:\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/08/20 21:13:57.274,d:\Documents\Embarcadero\Studio\Projects\main_form.h=d:\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2023/08/20 21:13:57.274,d:\Documents\Embarcadero\Studio\Projects\main_form.cpp=d:\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2023/08/20 21:15:04.558,F:\MyProjects\CsdnRedirectBlock\CsdnRedirectBlockPCH1.h=d:\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2023/08/20 21:15:04.570,F:\MyProjects\CsdnRedirectBlock\CsdnRedirectBlock.cbproj=d:\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+    <Transaction>2023/08/20 21:16:16.774,F:\MyProjects\CsdnRedirectBlock\main_form.cpp=d:\Documents\Embarcadero\Studio\Projects\main_form.cpp</Transaction>
+    <Transaction>2023/08/20 21:16:16.774,F:\MyProjects\CsdnRedirectBlock\main_form.dfm=d:\Documents\Embarcadero\Studio\Projects\main_form.dfm</Transaction>
+    <Transaction>2023/08/20 21:16:16.774,F:\MyProjects\CsdnRedirectBlock\main_form.h=d:\Documents\Embarcadero\Studio\Projects\main_form.h</Transaction>
+    <Transaction>2023/08/20 21:19:06.004,=F:\MyProjects\CsdnRedirectBlock\Unit1.cpp</Transaction>
+    <Transaction>2023/08/20 21:20:10.180,F:\MyProjects\CsdnRedirectBlock\file_read_and_replace.h=F:\MyProjects\CsdnRedirectBlock\Unit1.h</Transaction>
+    <Transaction>2023/08/20 21:20:10.180,F:\MyProjects\CsdnRedirectBlock\file_read_and_replace.cpp=F:\MyProjects\CsdnRedirectBlock\Unit1.cpp</Transaction>
+  </Transactions>
+</BorlandProject>
