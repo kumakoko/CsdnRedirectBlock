@@ -1,0 +1,2 @@
+# CsdnRedirectBlock
+当离线保存CSDN的网页到本机后，再次打开这网页，会自动重定向到CSDN网站去。本软件解决此问题
